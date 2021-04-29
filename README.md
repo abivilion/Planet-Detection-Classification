@@ -10,3 +10,8 @@ This model made for detecting popular planets of MILKY WAY GALAXY. This model ca
 **Technique:** Multi-Image Classification
 
 **Module Used:** autotime,PIL,os,matplotlib,numpy,skimage,sklearn,pickle
+
+
+### NOTE
+1. All Folders name with Planets are the Images Datasets that should be used during Training model.
+2. 
