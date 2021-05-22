@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://wallup.net/wp-content/uploads/2019/10/540280-space-universe-galaxy-cosmos-astronomy-planet-star-colors-colorful-sky-nature-planets-stars-galaxies.jpg)
+[Link](url) and ![Image]https://wallup.net/wp-content/uploads/2019/10/540280-space-universe-galaxy-cosmos-astronomy-planet-star-colors-colorful-sky-nature-planets-stars-galaxies.jpg
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
